@@ -297,7 +297,7 @@ const Index = () => {
                 className="kf-choose-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/choose_img.jpg" alt="image" />
+                <img src="images/packagedeals.jpg" alt="image" />
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5 offset-lg-1 align-self-center">
@@ -332,7 +332,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon1.png" alt="image" />
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Bronze Package</h5>
@@ -346,7 +346,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon2.png" alt="image" />
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Silver Package</h5>
@@ -360,7 +360,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon1.png" alt="image" />
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Gold Package</h5>
@@ -398,7 +398,7 @@ const Index = () => {
               className="kf-title element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Add-Ons
+              🛸 Add-Ons 🛸 
             </h3>
           </div>
           <div className="kf-numbers-items-2 row">
@@ -408,7 +408,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-cookie" />
+                  <i className="las la-fire" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Patio Heaters</h5>
@@ -422,7 +422,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-carrot" />
+                  <i className="las la-tv" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Jumbo Monitor & Projector</h5>
@@ -436,7 +436,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-hamburger" />
+                  <i className="las la-times" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Plastic Axe Throwing Game</h5>
@@ -450,7 +450,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-fish" />
+                  <i className="las la-arrows-alt-v" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Jumbo Serpiente y Escalera</h5>
@@ -464,7 +464,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-pizza-slice" />
+                  <i className="las la-camera" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Photography (Organized Events)</h5>
@@ -492,7 +492,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-mug-hot" />
+                  <i className="las la-toilet-paper" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Luxury Bathrooms</h5>
@@ -506,7 +506,7 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="icon">
-                  <i className="las la-seedling" />
+                  <i className="las la-users" />
                 </div>
                 <div className="desc">
                   <h5 className="name">Balloon Gardens</h5>
@@ -551,13 +551,12 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon1.png" alt="image" />
+                      <img src="images/afgcharacter.JPEG" alt="image" />
                     </div>
                     <div className="desc">
-                      <h5 className="name">Natural Coffee Beans</h5>
+                      <h5 className="name">Delivery</h5>
                       <div className="subname">
-                        Sed ut perspiciatis unde omnis iste natus error
-                        voluptate accusantium doloremque
+                      Currently only delivering within a 15 mile radius from zip code 91345 (Mission Hills) 
                       </div>
                     </div>
                   </li>
@@ -566,13 +565,12 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon2.png" alt="image" />
+                      <img src="images/afgcharacter.JPEG" alt="image" />
                     </div>
                     <div className="desc">
-                      <h5 className="name">100% ISO Certification</h5>
+                      <h5 className="name">Additional Details</h5>
                       <div className="subname">
-                        Sed ut perspiciatis unde omnis iste natus error
-                        voluptate accusantium doloremque
+                      PLEASE NOTE: a minimum of 2 games must be rented. 
                       </div>
                     </div>
                   </li>
@@ -583,7 +581,7 @@ const Index = () => {
                 className="kf-btn element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <span>our menu</span>
+                <span>Contact Us!</span>
                 <i className="fas fa-chevron-right" />
               </Link>
             </div>
@@ -609,12 +607,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal2.jpg" className="has-popup-image">
-                    <img src="images/grid_gal2.jpg" alt="image" />
+                  <a href="images/people1.jpg" className="has-popup-image">
+                    <img src="images/people1.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Latte</h5>
+                  <h5 className="name"></h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -624,12 +622,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal3.jpg" className="has-popup-image">
-                    <img src="images/grid_gal3.jpg" alt="image" />
+                  <a href="images/people2.jpg" className="has-popup-image">
+                    <img src="images/people2.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Cappuccino</h5>
+                  <h5 className="name"></h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -639,87 +637,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal4.jpg" className="has-popup-image">
-                    <img src="images/grid_gal4.jpg" alt="image" />
+                  <a href="images/people3.jpg" className="has-popup-image">
+                    <img src="images/people3.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Iced Coffee</h5>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="swiper-slide">
-              <div
-                className="slide-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/grid_gal5.jpg" className="has-popup-image">
-                    <img src="images/grid_gal5.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Espresso</h5>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="swiper-slide">
-              <div
-                className="slide-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/grid_gal1.jpg" className="has-popup-image">
-                    <img src="images/grid_gal1.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Black Coffee</h5>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="swiper-slide">
-              <div
-                className="slide-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/grid_gal2.jpg" className="has-popup-image">
-                    <img src="images/grid_gal2.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Latte</h5>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="swiper-slide">
-              <div
-                className="slide-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/grid_gal3.jpg" className="has-popup-image">
-                    <img src="images/grid_gal3.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Cappuccino</h5>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="swiper-slide">
-              <div
-                className="slide-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/grid_gal4.jpg" className="has-popup-image">
-                    <img src="images/grid_gal4.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Iced Coffee</h5>
+                  <h5 className="name"></h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -734,7 +657,7 @@ const Index = () => {
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Espresso</h5>
+                  <h5 className="name">Image</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -749,7 +672,82 @@ const Index = () => {
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Black Coffee</h5>
+                  <h5 className="name">Image</h5>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+              <div
+                className="slide-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/grid_gal2.jpg" className="has-popup-image">
+                    <img src="images/grid_gal2.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Image2</h5>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+              <div
+                className="slide-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/grid_gal3.jpg" className="has-popup-image">
+                    <img src="images/grid_gal3.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Image</h5>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+              <div
+                className="slide-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/grid_gal4.jpg" className="has-popup-image">
+                    <img src="images/grid_gal4.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Image</h5>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+              <div
+                className="slide-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/grid_gal5.jpg" className="has-popup-image">
+                    <img src="images/grid_gal5.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Image</h5>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+              <div
+                className="slide-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/grid_gal1.jpg" className="has-popup-image">
+                    <img src="images/grid_gal1.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Image</h5>
                 </div>
               </div>
             </SwiperSlide>
