@@ -178,7 +178,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/IMG_2693.png" className="has-popup-image">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -197,7 +197,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/afgcharacter.png" className="has-popup-image">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -216,7 +216,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu4.jpg" className="has-popup-image">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -235,7 +235,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -332,7 +332,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Bronze Package</h5>
@@ -346,7 +346,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Silver Package</h5>
@@ -360,7 +360,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/afgcharacter.jpeg" alt="image" />
+                      <img src="images/afgcharacter.jpg" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Gold Package</h5>
@@ -551,7 +551,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/afgcharacter.JPEG" alt="image" />
+                      <img src="images/afgcharacter.JPG" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Delivery</h5>
@@ -565,7 +565,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/afgcharacter.JPEG" alt="image" />
+                      <img src="images/afgcharacter.JPG" alt="image" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Additional Details</h5>
