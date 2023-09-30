@@ -46,7 +46,7 @@ const Index = () => {
                 className="kf-about-quote element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/quote_img.png" alt="image" />
+                <img src="images/afgcharacter.JPEG" alt="image" />
                 <div>
                 Customer satisfaction is our top priority, and we strive to make the rental experience seamless with flexible rental periods, competitive pricing, and convenient delivery and pickup services. 
                 </div>
@@ -60,7 +60,7 @@ const Index = () => {
                 className="kf-about-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/about_img.png" alt="image" />
+                <img src="images/aboutimage.png" alt="image" />
               </div>
             </div>
           </div>
@@ -158,14 +158,14 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu1.jpg" className="has-popup-image">
-                      <img src="images/menu1.jpg" alt="image" />
+                    <a href="images/connect4.jpg" className="has-popup-image">
+                      <img src="images/connect4.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
                     <h5 className="name">Connect 4 / Jumbo 4 in a Row</h5>
                     <div className="subname">
-                      2/3 espresso, 1/3 streamed milk
+                      
                     </div>
                     <div className="price">$55</div>
                   </div>
@@ -177,14 +177,14 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu2.jpg" className="has-popup-image">
-                      <img src="images/menu2.jpg" alt="image" />
+                    <a href="images/IMG_2693.png" className="has-popup-image">
+                      <img src="images/IMG_2693.png" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
                     <h5 className="name">Pro-Size Cornhole</h5>
                     <div className="subname">
-                      2/3 espresso, 1/3 streamed milk
+                      
                     </div>
                     <div className="price">$55</div>
                   </div>
@@ -196,14 +196,14 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu3.jpg" className="has-popup-image">
-                      <img src="images/menu3.jpg" alt="image" />
+                    <a href="images/img_2428.heic" className="has-popup-image">
+                      <img src="images/img_2428.heic" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
                     <h5 className="name">Jumbo Jenga</h5>
                     <div className="subname">
-                      2/3 espresso, 1/3 streamed milk
+                      
                     </div>
                     <div className="price">$60</div>
                   </div>
@@ -222,7 +222,7 @@ const Index = () => {
                   <div className="desc">
                     <h5 className="name">Jumbo Tic-Tac-Toe</h5>
                     <div className="subname">
-                      2/3 espresso, 1/3 streamed milk
+                      
                     </div>
                     <div className="price">$55</div>
                   </div>
@@ -241,7 +241,7 @@ const Index = () => {
                   <div className="desc">
                     <h5 className="name">Jumbo Beer-Pong</h5>
                     <div className="subname">
-                      2/3 espresso, 1/3 streamed milk
+                      
                     </div>
                     <div className="price">$125</div>
                   </div>
