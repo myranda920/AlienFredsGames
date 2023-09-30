@@ -10,7 +10,7 @@ const Footer = () => {
               data-animate="active"
             >
               <a href="index.html">
-                <img src="images/mainlogo.jpg" alt="image" />
+                <img src="images/mainlogo.png" alt="image" />
               </a>
             </div>
           </div>
