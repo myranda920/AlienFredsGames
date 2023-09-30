@@ -130,7 +130,7 @@ const Index = () => {
       {/* Section Menu */}
       <section
         className="section kf-menu kf-parallax"
-        style={{ backgroundImage: "url(images/category_bg.jpg)" }}
+        style={{ backgroundImage: "white" }}
       >
         <div className="container">
           <div className="kf-titles align-center">
@@ -149,7 +149,7 @@ const Index = () => {
           </div>
           <div
             className="kf-menu-items"
-            style={{ backgroundImage: "url(images/menu_logo.png)" }}
+            style={{ backgroundColor: "black" }}
           >
             <div className="row">
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
@@ -178,7 +178,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/IMG_2693.png" className="has-popup-image">
-                      <img src="images/IMG_2693.png" alt="image" />
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -196,8 +196,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/img_2428.heic" className="has-popup-image">
-                      <img src="images/img_2428.heic" alt="image" />
+                    <a href="images/afgcharacter.png" className="has-popup-image">
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -216,7 +216,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu4.jpg" className="has-popup-image">
-                      <img src="images/menu4.jpg" alt="image" />
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -235,7 +235,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/menu5.jpg" alt="image" />
+                      <img src="images/afgcharacter.jpeg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -590,7 +590,7 @@ const Index = () => {
                 className="kf-choose-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/about_img2.jpg" alt="image" />
+                <img src="images/about3.jpg" alt="image" />
               </div>
             </div>
           </div>

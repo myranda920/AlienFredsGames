@@ -91,7 +91,7 @@ const Header = () => {
                 <li>
                   <Link href="about">About</Link>
                 </li>
-                <li>
+                {/* <li>
                   <Link href="menu-coffee">
                     Menu
                     <i className="las la-angle-down" />
@@ -104,13 +104,13 @@ const Header = () => {
                       <Link href="menu-restaurant">Menu Restaurant</Link>
                     </li>
                   </ul>
-                </li>
+                </li> */}
                 <li>
                   <a href="#">
-                    Pages
-                    <i className="las la-angle-down" />
+                    Services
+                    {/* <i className="las la-angle-down" /> */}
                   </a>
-                  <ul>
+                  {/* <ul>
                     <li>
                       <Link href="services">Service</Link>
                     </li>
@@ -129,9 +129,9 @@ const Header = () => {
                     <li>
                       <Link href="faq">FAQ</Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     Blog
                     <i className="las la-angle-down" />
@@ -147,9 +147,9 @@ const Header = () => {
                       <Link href="blog-single">Blog Single</Link>
                     </li>
                   </ul>
-                </li>
+                </li> */}
                 <li>
-                  <Link href="contacts">Contacts</Link>
+                  <Link href="contacts">Contact</Link>
                 </li>
               </ul>
             </div>

@@ -36,15 +36,15 @@ const Contacts = () => {
                   <i className="las la-map-marked-alt" />
                 </div>
                 <div className="desc">
-                  <h5 className="name">Main Location</h5>
+                  <h5 className="name">Location</h5>
                   <ul>
                     <li>
-                      55 Main Street, 2nd Block, <br />
-                      3rd Floor, New York
+                      Mission Hills, <br />
+                      California
                     </li>
                     <li>
-                      394 Main Street, 2nd Block, <br />
-                      3rd Floor, USA
+                      15 mile <br />
+                      Delivery Radius
                     </li>
                   </ul>
                 </div>
@@ -63,13 +63,13 @@ const Contacts = () => {
                   <h5 className="name">Email Address</h5>
                   <ul>
                     <li>
+                      alienfredsgames@gmail.com <br />
+                      www.alienfredsgames.com
+                    </li>
+                    {/* <li>
                       supportkaffen@gmail.com <br />
                       www.kaffeninfo.net
-                    </li>
-                    <li>
-                      supportkaffen@gmail.com <br />
-                      www.kaffeninfo.net
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
@@ -87,13 +87,13 @@ const Contacts = () => {
                   <h5 className="name">Phone Number</h5>
                   <ul>
                     <li>
+                      +818-307-9796 <br />
+                      
+                    </li>
+                    {/* <li>
                       +012 (345) 678 99 <br />
                       123456780
-                    </li>
-                    <li>
-                      +012 (345) 678 99 <br />
-                      123456780
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
@@ -171,9 +171,9 @@ const Contacts = () => {
         </div>
       </section>
       {/* Section Insta Carousel */}
-      <InstaCarousel />
+      {/* <InstaCarousel /> */}
       {/* Section Brands */}
-      <div className="section kf-brands">
+      {/* <div className="section kf-brands">
         <div className="container">
           <div className="kf-brands-items row">
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-2">
@@ -238,7 +238,7 @@ const Contacts = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </Layouts>
   );
 };
