@@ -39,12 +39,8 @@ const Contacts = () => {
                   <h5 className="name">Location</h5>
                   <ul>
                     <li>
-                      Mission Hills, <br />
+                      San Fernando Valley, <br />
                       California
-                    </li>
-                    <li>
-                      15 mile <br />
-                      Delivery Radius
                     </li>
                   </ul>
                 </div>

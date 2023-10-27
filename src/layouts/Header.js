@@ -54,7 +54,7 @@ const Header = () => {
           <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4 align-right">
             {/* location */}
             <div className="kf-h-group">
-              <i className="fas fa-map-marker-alt" /> <em>Location :</em> Los Angeles, CA
+              <i className="fas fa-map-marker-alt" /> <em>Location :</em> San Fernando Valley, CA
             </div>
           </div>
         </div>
@@ -177,23 +177,23 @@ const Header = () => {
           <ul>
             <li className="has-children">
               <Link href="/">Home</Link>
-              <i
+              {/* <i
                 className="las la-angle-down"
                 onClick={() => activeMenuSet("home")}
-              />
+              /> */}
               <ul style={activeLi("home")}>
-                <li>
+                {/* <li>
                   <Link href="/">Coffee House</Link>
                 </li>
                 <li>
                   <Link href="index-2">Restaurant</Link>
-                </li>
+                </li> */}
               </ul>
             </li>
             <li>
-              <Link href="about">About</Link>
+              <Link href="about">About Us</Link>
             </li>
-            <li className="has-children">
+            {/* <li className="has-children">
               <Link href="menu-coffee">Menu</Link>
               <i
                 className="las la-angle-down"
@@ -207,8 +207,8 @@ const Header = () => {
                   <Link href="menu-restaurant">Menu Restaurant</Link>
                 </li>
               </ul>
-            </li>
-            <li className="has-children">
+            </li> */}
+            {/* <li className="has-children">
               <a href="#">Pages</a>
               <i
                 className="las la-angle-down"
@@ -234,8 +234,8 @@ const Header = () => {
                   <Link href="faq">FAQ</Link>
                 </li>
               </ul>
-            </li>
-            <li className="has-children">
+            </li> */}
+            {/* <li className="has-children">
               <a href="#">Blog</a>
               <i
                 className="las la-angle-down"
@@ -252,10 +252,10 @@ const Header = () => {
                   <Link href="blog-single">Blog Single</Link>
                 </li>
               </ul>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <Link href="contacts">Contacts</Link>
-            </li>
+            </li> */}
           </ul>
         </div>
         {/* mobile topline */}
@@ -264,25 +264,25 @@ const Header = () => {
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
               {/* mobile btn */}
               <Link href="reservation" className="kf-btn h-btn">
-                <span>Book a table</span>
+                <span>Contact</span>
                 <i className="fas fa-chevron-right" />
               </Link>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
               {/* social */}
               <div className="kf-h-social">
-                <a href="facebook.com" target="blank">
+                {/* <a href="facebook.com" target="blank">
                   <i className="fab fa-facebook-f" />
-                </a>
-                <a href="twitter.com" target="blank">
+                </a> */}
+                {/* <a href="twitter.com" target="blank">
                   <i className="fab fa-twitter" />
-                </a>
+                </a> */}
                 <a href="instagram.com" target="blank">
                   <i className="fab fa-instagram" />
                 </a>
-                <a href="youtube.com" target="blank">
+                {/* <a href="youtube.com" target="blank">
                   <i className="fab fa-youtube" />
-                </a>
+                </a> */}
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -295,8 +295,7 @@ const Header = () => {
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
               {/* location */}
               <div className="kf-h-group">
-                <i className="fas fa-map-marker-alt" /> <em>Location :</em> 55
-                main street, new york
+                <i className="fas fa-map-marker-alt" /> <em>Location :</em> San Fernando Valley
               </div>
             </div>
           </div>

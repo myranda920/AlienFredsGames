@@ -50,13 +50,13 @@ const PhotoGalleryIsotope = () => {
             className="kf-subtitle element-anim-1 scroll-animate"
             data-animate="active"
           >
-            Our Photo Gallery
+            Services and Pricing
           </div>
           <h3
             className="kf-title element-anim-1 scroll-animate"
             data-animate="active"
           >
-            Looks Our Photo Gallery
+            Games and Packages
           </h3>
         </div>
         <div
@@ -75,29 +75,29 @@ const PhotoGalleryIsotope = () => {
             onClick={handleFilterKeyChange("fast-food")}
             data-href="fast-food"
           >
-            Fast food
+            Games
           </a>
           <a
             className="c-pointer"
             onClick={handleFilterKeyChange("hot-coffee")}
             data-href="hot-coffee"
           >
-            Hot coffee
+            Add-Ons
           </a>
           <a
             className="c-pointer"
             data-href="dinner-menu"
             onClick={handleFilterKeyChange("dinner-menu")}
           >
-            Dinner menu
+            Partnerships
           </a>
-          <a
+          {/* <a
             className="c-pointer"
             data-href="special-pizza"
             onClick={handleFilterKeyChange("special-pizza")}
           >
             Special pizza
-          </a>
+          </a> */}
         </div>
         <div className="kf-gallery-items row">
           <div className="kf-gallery-col col-xs-12 col-sm-12 col-md-6 col-lg-4 all fast-food">
@@ -107,15 +107,15 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/ins_gal1.jpg" className="has-popup-gallery">
-                  <img src="images/ins_gal1.jpg" alt="image" />
+                  <img src="images/Connect4.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
                 <div className="name">
-                  <div className="value">italian burger</div>
+                  <div className="value">Jumbo Connect 4</div>
                 </div>
                 <div className="subname">
-                  <div className="value">fast food</div>
+                  <div className="value">$55</div>
                 </div>
               </div>
             </div>
@@ -127,15 +127,15 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/ins_gal2.jpg" className="has-popup-gallery">
-                  <img src="images/ins_gal2.jpg" alt="image" />
+                  <img src="images/Jumbojenga.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
                 <div className="name">
-                  <div className="value">italian pasta</div>
+                  <div className="value">Jumbo Jenga</div>
                 </div>
                 <div className="subname">
-                  <div className="value">dinner menu</div>
+                  <div className="value">$60</div>
                 </div>
               </div>
             </div>
@@ -147,15 +147,15 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/ins_gal3.jpg" className="has-popup-gallery">
-                  <img src="images/ins_gal3.jpg" alt="image" />
+                  <img src="images/Prosizecornhole.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
                 <div className="name">
-                  <div className="value">Chicken burger</div>
+                  <div className="value">Pro-size Cornhole</div>
                 </div>
                 <div className="subname">
-                  <div className="value">fast food</div>
+                  <div className="value">$55</div>
                 </div>
               </div>
             </div>
@@ -167,15 +167,15 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/ins_gal4.jpg" className="has-popup-gallery">
-                  <img src="images/ins_gal4.jpg" alt="image" />
+                  <img src="images/Jumbotictactoe.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
                 <div className="name">
-                  <div className="value">italian pizza</div>
+                  <div className="value">Jumbo Tic-Tac-Toe</div>
                 </div>
                 <div className="subname">
-                  <div className="value">special pizza</div>
+                  <div className="value">$55</div>
                 </div>
               </div>
             </div>
@@ -192,10 +192,10 @@ const PhotoGalleryIsotope = () => {
               </div>
               <div className="desc">
                 <div className="name">
-                  <div className="value">cappuccino</div>
+                  <div className="value">Jumbo Beer-Pong</div>
                 </div>
                 <div className="subname">
-                  <div className="value">hot coffee</div>
+                  <div className="value">$125</div>
                 </div>
               </div>
             </div>

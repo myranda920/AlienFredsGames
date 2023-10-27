@@ -4,6 +4,14 @@ import Layouts from "@/src/layouts/Layouts";
 import { sliderProps } from "@/src/sliderProps";
 import Link from "next/link";
 import { Swiper, SwiperSlide } from "swiper/react";
+import dynamic from "next/dynamic";
+
+const PhotoGalleryIsotope = dynamic(
+  () => import("@/src/components/PhotoGalleryIsotope"),
+  {
+    ssr: false,
+  }
+);
 
 const Index = () => {
   return (
@@ -11,7 +19,82 @@ const Index = () => {
       {/* Section Started Slider */}
       <MainSlider />
       {/* Section About */}
-      <section className="section kf-about section-bg">
+      {/* Contact */}
+      <section className="section kf-contacts-info">
+        <div className="container">
+          <div className="kf-contacts-items row">
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 align-center">
+              <div
+                className="kf-contacts-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  {/*<img src="images/contact_icon1.png" alt="" />*/}
+                  <i className="las la-map-marked-alt" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Location</h5>
+                  <ul>
+                    <li>
+                      San Fernando Valley, <br />
+                      California
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 align-center">
+              <div
+                className="kf-contacts-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  {/*<img src="images/contact_icon2.png" alt="" />*/}
+                  <i className="las la-envelope-open-text" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Email Address</h5>
+                  <ul>
+                    <li>
+                      alienfredsgames@gmail.com <br />
+                      www.alienfredsgames.com
+                    </li>
+                    {/* <li>
+                      supportkaffen@gmail.com <br />
+                      www.kaffeninfo.net
+                    </li> */}
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 align-center">
+              <div
+                className="kf-contacts-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  {/*<img src="images/contact_icon3.png" alt="" />*/}
+                  <i className="las la-headset" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Phone Number</h5>
+                  <ul>
+                    <li>
+                      +818-307-9796 <br />
+                      
+                    </li>
+                    {/* <li>
+                      +012 (345) 678 99 <br />
+                      123456780
+                    </li> */}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* <section className="section kf-about section-bg">
         <div className="container">
           <div className="row">
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5">
@@ -65,7 +148,7 @@ const Index = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* Section Services */}
       {/* <section className="section kf-services section-bg">
         <div className="container">
@@ -128,6 +211,8 @@ const Index = () => {
         </div>
       </section> */}
       {/* Section Menu */}
+      {/* Games Section */}
+      <PhotoGalleryIsotope />
       <section
         className="section kf-menu kf-parallax"
         style={{ backgroundImage: "white" }}
@@ -598,7 +683,7 @@ const Index = () => {
       </section>
       {/* Section Numbers-2 */}
       {/* Section Grid Carousel */}
-      <section className="section kf-grid-carousel">
+      {/* <section className="section kf-grid-carousel">
         <div className="container">
           <Swiper {...sliderProps.kfGridCarousel} className="swiper-container">
             <SwiperSlide className="swiper-slide">
@@ -753,7 +838,7 @@ const Index = () => {
             </SwiperSlide>
           </Swiper>
         </div>
-      </section>
+      </section> */}
       {/* Section Testimonials Carousel */}
       {/* <TestimonialsCarousel /> */}
       {/* Section Numbers */}
