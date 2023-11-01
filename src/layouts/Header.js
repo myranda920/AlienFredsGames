@@ -105,11 +105,11 @@ const Header = () => {
                     </li>
                   </ul>
                 </li> */}
-                <li>
-                  <a href="#">
-                    Services
+                {/* <li> */}
+                  {/* <a href="#">
+                    Services */}
                     {/* <i className="las la-angle-down" /> */}
-                  </a>
+                  {/* </a> */}
                   {/* <ul>
                     <li>
                       <Link href="services">Service</Link>
@@ -130,7 +130,7 @@ const Header = () => {
                       <Link href="faq">FAQ</Link>
                     </li>
                   </ul> */}
-                </li>
+                {/* </li> */}
                 {/* <li>
                   <a href="#">
                     Blog

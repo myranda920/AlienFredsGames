@@ -213,7 +213,7 @@ const Index = () => {
       {/* Section Menu */}
       {/* Games Section */}
       <PhotoGalleryIsotope />
-      <section
+      {/* <section
         className="section kf-menu kf-parallax"
         style={{ backgroundImage: "white" }}
       >
@@ -337,43 +337,31 @@ const Index = () => {
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
-                  {/* <div className="image kf-image-hover">
-                    <a href="images/menu6.jpg" className="has-popup-image">
-                      <img src="images/menu6.jpg" alt="image" />
-                    </a>
-                  </div> */}
-                  {/* <div className="desc">
-                    <h5 className="name">Milk Cream Coffee</h5>
-                    <div className="subname">
-                      2/3 espresso, 1/3 streamed milk
-                    </div>
-                    <div className="price">$7.5</div>
-                  </div> */}
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* Section Choose */}
       <section className="section kf-choose section-bg">
         <div className="container">
           <div className="kf-parallax-icon pi-1" data-jarallax-element={-60}>
             <div
               className="p-icon"
-              style={{ backgroundImage: "url(images/parallax_icon1.png)" }}
+              style={{ backgroundImage: "url(images/fred.png)" }}
             />
           </div>
           <div className="kf-parallax-icon pi-2" data-jarallax-element={-80}>
             <div
               className="p-icon"
-              style={{ backgroundImage: "url(images/parallax_icon2.png)" }}
+              style={{ backgroundImage: "url(images/fred.png)" }}
             />
           </div>
           <div className="kf-parallax-icon pi-3" data-jarallax-element={-40}>
             <div
               className="p-icon"
-              style={{ backgroundImage: "url(images/parallax_icon3.png)" }}
+              style={{ backgroundImage: "url(images/fred.png)" }}
             />
           </div>
           <div className="row">
@@ -470,7 +458,7 @@ const Index = () => {
       </section>
 
             {/* Section Numbers-2 */}
-            <section className="section kf-numbers-2 section-bg">
+            {/* <section className="section kf-numbers-2 section-bg">
         <div className="container">
           <div className="kf-titles align-center">
             <div
@@ -497,7 +485,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Patio Heaters</h5>
-                  {/* <div className="subname">Patio Heaters</div> */}
+               
                 </div>
               </div>
             </div>
@@ -511,7 +499,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Jumbo Monitor & Projector</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+               
                 </div>
               </div>
             </div>
@@ -525,7 +513,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Plastic Axe Throwing Game</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+          
                 </div>
               </div>
             </div>
@@ -539,7 +527,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Jumbo Serpiente y Escalera</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                
                 </div>
               </div>
             </div>
@@ -553,7 +541,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Photography (Organized Events)</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                 
                 </div>
               </div>
             </div>
@@ -567,7 +555,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Bartender</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+               
                 </div>
               </div>
             </div>
@@ -581,7 +569,7 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Luxury Bathrooms</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                
                 </div>
               </div>
             </div>
@@ -595,13 +583,13 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Balloon Gardens</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+        
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
         {/* Section About-2 */}
         <section className="section kf-choose kf-choose-2">
         <div className="container">

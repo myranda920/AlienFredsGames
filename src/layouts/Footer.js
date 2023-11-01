@@ -64,7 +64,7 @@ const Footer = () => {
           </div>
           <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
             {/* gallery */}
-            <div
+            {/* <div
               className="kf-f-gallery element-anim-1 scroll-animate"
               data-animate="active"
             >
@@ -119,7 +119,7 @@ const Footer = () => {
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="row">
