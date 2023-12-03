@@ -9,7 +9,7 @@ const MainSlider = () => {
           <div className="kf-started-item">
             <div
               className="slide js-parallax"
-              style={{ backgroundImage: "url(images/BeigeMediumBanner.jpg)" }}
+              style={{ backgroundImage: "url(images/gamebannerimage.png)" }}
             />
             <div className="container">
               <div className="description align-left element-anim-1">

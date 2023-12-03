@@ -187,7 +187,7 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/afgcharacter.png" className="has-popup-gallery">
-                  <img src="images/afgcharacter.png" alt="image" />
+                  <img src="images/jumbobeerpong.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
@@ -207,7 +207,7 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/afgcharacter.png" className="has-popup-gallery">
-                  <img src="images/afgcharacter.png" alt="image" />
+                  <img src="images/patioheaters.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
@@ -227,7 +227,7 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/afgcharacter.png" className="has-popup-gallery">
-                  <img src="images/afgcharacter.png" alt="image" />
+                  <img src="images/jumboprojector.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
@@ -247,7 +247,7 @@ const PhotoGalleryIsotope = () => {
             >
               <div className="image kf-image-hover">
                 <a href="images/afgcharacter.png" className="has-popup-gallery">
-                  <img src="images/afgcharacter.png" alt="image" />
+                  <img src="images/axethrowing.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
@@ -275,7 +275,7 @@ const PhotoGalleryIsotope = () => {
                   {/* <div className="value">Jumbo Serpiente y Escalera</div> */}
                 </div>
                 <div className="subname">
-                  <div className="value">Photography</div>
+                  <div className="value">Jumbo Serpiente y Escalera</div>
                 </div>
               </div>
             </div>
