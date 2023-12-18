@@ -260,7 +260,7 @@ const PhotoGalleryIsotope = () => {
               </div>
             </div>
           </div>
-          <div className="kf-gallery-col col-xs-12 col-sm-12 col-md-6 col-lg-4 all dinner-menu">
+          <div className="kf-gallery-col col-xs-12 col-sm-12 col-md-6 col-lg-4 all hot-coffee">
             <div
               className="kf-gallery-item element-anim-1 scroll-animate"
               data-animate="active"

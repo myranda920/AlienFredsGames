@@ -66,7 +66,7 @@ const Header = () => {
             {/* logo */}
             <div className="kf-logo">
               <Link href="/">
-                <img src="images/Fredsface.jpg" alt="image" />
+                <img src="images/fredsface.jpg" alt="image" />
               </Link>
             </div>
           </div>
