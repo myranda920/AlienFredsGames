@@ -246,8 +246,8 @@ const PhotoGalleryIsotope = () => {
               data-animate="active"
             >
               <div className="image kf-image-hover">
-                <a href="images/afgcharacter.png" className="has-popup-gallery">
-                  <img src="images/axeThrowing.jpg" alt="image" />
+                <a href="images/axeThrowingGame.jpg" className="has-popup-gallery">
+                  <img src="images/axeThrowingGame.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
