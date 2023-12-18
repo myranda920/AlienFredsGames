@@ -37,13 +37,13 @@ const Header = () => {
           <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4 align-center">
             {/* social */}
             <div className="kf-h-social">
-              <a href="facebook.com" target="blank">
+              {/* <a href="facebook.com" target="blank">
                 <i className="fab fa-facebook-f" />
-              </a>
+              </a> */}
               {/* <a href="twitter.com" target="blank">
                 <i className="fab fa-twitter" />
               </a> */}
-              <a href="instagram.com" target="blank">
+              <a href="https://www.instagram.com/alienfredsgames/" target="blank">
                 <i className="fab fa-instagram" />
               </a>
               {/* <a href="youtube.com" target="blank">
@@ -66,7 +66,7 @@ const Header = () => {
             {/* logo */}
             <div className="kf-logo">
               <Link href="/">
-                <img src="images/mainlogoupdated.png" alt="image" />
+                <img src="images/Fredsface.jpg" alt="image" />
               </Link>
             </div>
           </div>
