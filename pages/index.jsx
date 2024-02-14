@@ -669,8 +669,8 @@ const Index = () => {
           </div>
         </div>
       </section>
-
-      {/* Title for partnerships */}
+ 
+      {/* Section Team */}
       <section className="section kf-team section-bg">
         <div className="container">
           <div className="kf-titles align-center">
@@ -678,7 +678,7 @@ const Index = () => {
               className="kf-subtitle element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Alien Fred's Games
+             Alien Fred's Games
             </div>
             <h3
               className="kf-title element-anim-1 scroll-animate"
@@ -687,98 +687,203 @@ const Index = () => {
               Partnerships
             </h3>
           </div>
-          <div className="container">
-          <div className="kf-services-items-2 row">
+          <div className="kf-team-items row">
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
               <div
-                className="kf-services-item-2 element-anim-1 scroll-animate"
+                className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <div className="image">
-                  <img src="images/photography.jpg" alt="image" />
-                </div>
                 <div className="desc">
                   <h5 className="name">Photography</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                  {/* <div className="subname">Senior Chefs</div> */}
+                </div>
+                <div className="image kf-image-hover">
+                  <img src="images/photography.jpg" alt="image" />
+                  <div className="info">
+                    {/* <div className="label">bowmankf@gmail.com</div>
+                    <div className="label">+012 (345) 678 99</div> */}
+                  </div>
+                  <div className="social">
+                    {/* <a href="#"> */}
+                      {/* <i className="fab fa-facebook-f" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-twitter" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-linkedin" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-youtube" />
+                    </a> */}
+                  </div>
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
               <div
-                className="kf-services-item-2 element-anim-1 scroll-animate"
+                className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <div className="image">
-                  <img src="images/jumboScreen.jpg" alt="image" />
-                </div>
                 <div className="desc">
                   <h5 className="name">Jumbo Screen</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                  {/* <div className="subname">Senior Chefs</div> */}
+                </div>
+                <div className="image kf-image-hover">
+                  <img src="images/jumboScreen.jpg" alt="image" />
+                  <div className="info">
+                    {/* <div className="label">bowmankf@gmail.com</div>
+                    <div className="label">+012 (345) 678 99</div> */}
+                  </div>
+                  <div className="social">
+                    {/* <a href="#">
+                      <i className="fab fa-facebook-f" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-twitter" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-linkedin" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-youtube" />
+                    </a> */}
+                  </div>
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
               <div
-                className="kf-services-item-2 element-anim-1 scroll-animate"
+                className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <div className="image">
-                  <img src="images/desertTable.jpg" alt="image" />
-                </div>
                 <div className="desc">
-                  <h5 className="name">Desert Table</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                  <h5 className="name">Dessert Table</h5>
+                  {/* <div className="subname">Senior Chefs</div> */}
+                </div>
+                <div className="image kf-image-hover">
+                  <img src="images/desertTable.jpg" alt="image" />
+                  <div className="info">
+                    {/* <div className="label">bowmankf@gmail.com</div>
+                    <div className="label">+012 (345) 678 99</div> */}
+                  </div>
+                  <div className="social">
+                    {/* <a href="#">
+                      <i className="fab fa-facebook-f" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-twitter" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-linkedin" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-youtube" />
+                    </a> */}
+                  </div>
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
               <div
-                className="kf-services-item-2 element-anim-1 scroll-animate"
+                className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <div className="image">
-                  <img src="images/cakeCreations.jpg" alt="image" />
-                </div>
                 <div className="desc">
                   <h5 className="name">Cake Creation</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                  {/* <div className="subname">Senior Chefs</div> */}
+                </div>
+                <div className="image kf-image-hover">
+                  <img src="images/cakeCreations.jpg" alt="image" />
+                  <div className="info">
+                    {/* <div className="label">gonzalezkf@gmail.com</div>
+                    <div className="label">+012 (345) 678 99</div> */}
+                  </div>
+                  <div className="social">
+                    {/* <a href="#">
+                      <i className="fab fa-facebook-f" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-twitter" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-linkedin" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-youtube" />
+                    </a> */}
+                  </div>
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
               <div
-                className="kf-services-item-2 element-anim-1 scroll-animate"
+                className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <div className="image">
-                  <img src="images/bartendingPhoto.jpg" alt="image" />
-                </div>
                 <div className="desc">
                   <h5 className="name">Bartending</h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                  {/* <div className="subname">Senior Chefs</div> */}
+                </div>
+                <div className="image kf-image-hover">
+                  <img src="images/bartendingPhoto.jpg" alt="image" />
+                  <div className="info">
+                    {/* <div className="label">lawrencekf@gmail.com</div>
+                    <div className="label">+012 (345) 678 99</div> */}
+                  </div>
+                  <div className="social">
+                    {/* <a href="#"> */}
+                      {/* <i className="fab fa-facebook-f" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-twitter" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-linkedin" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-youtube" />
+                    </a> */}
+                  </div>
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
               <div
-                className="kf-services-item-2 element-anim-1 scroll-animate"
+                className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <div className="image">
-                  <img src="images/balloonGardenPhoto.jpg" alt="image" />
-                </div>
                 <div className="desc">
-                  <h5 className="name">Balloon Garden </h5>
-                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                  <h5 className="name">Balloon Garden</h5>
+                  {/* <div className="subname">Senior Chefs</div> */}
+                </div>
+                <div className="image kf-image-hover">
+                  <img src="images/balloonGardenPhoto.jpg" alt="image" />
+                  <div className="info">
+                    {/* <div className="label">smithkf@gmail.com</div>
+                    <div className="label">+012 (345) 678 99</div> */}
+                  </div>
+                  <div className="social">
+                    {/* <a href="#">
+                      <i className="fab fa-facebook-f" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-twitter" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-linkedin" />
+                    </a>
+                    <a href="#">
+                      <i className="fab fa-youtube" />
+                    </a> */}
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
+      </section>
 
-        </div>
-      </section> 
- 
       {/* Section Numbers-2 */}
       {/* Section Grid Carousel */}
       {/* <section className="section kf-grid-carousel">
