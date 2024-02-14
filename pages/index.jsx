@@ -669,6 +669,116 @@ const Index = () => {
           </div>
         </div>
       </section>
+
+      {/* Title for partnerships */}
+      <section className="section kf-team section-bg">
+        <div className="container">
+          <div className="kf-titles align-center">
+            <div
+              className="kf-subtitle element-anim-1 scroll-animate"
+              data-animate="active"
+            >
+              Alien Fred's Games
+            </div>
+            <h3
+              className="kf-title element-anim-1 scroll-animate"
+              data-animate="active"
+            >
+              Partnerships
+            </h3>
+          </div>
+          <div className="container">
+          <div className="kf-services-items-2 row">
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+              <div
+                className="kf-services-item-2 element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  <img src="images/photography.jpg" alt="image" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Photography</h5>
+                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+              <div
+                className="kf-services-item-2 element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  <img src="images/jumboScreen.jpg" alt="image" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Jumbo Screen</h5>
+                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+              <div
+                className="kf-services-item-2 element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  <img src="images/desertTable.jpg" alt="image" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Desert Table</h5>
+                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+              <div
+                className="kf-services-item-2 element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  <img src="images/cakeCreations.jpg" alt="image" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Cake Creation</h5>
+                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+              <div
+                className="kf-services-item-2 element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  <img src="images/bartendingPhoto.jpg" alt="image" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Bartending</h5>
+                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+              <div
+                className="kf-services-item-2 element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image">
+                  <img src="images/balloonGardenPhoto.jpg" alt="image" />
+                </div>
+                <div className="desc">
+                  <h5 className="name">Balloon Garden </h5>
+                  {/* <div className="subname">Sed ut perspiciatis unde</div> */}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        </div>
+      </section> 
+ 
       {/* Section Numbers-2 */}
       {/* Section Grid Carousel */}
       {/* <section className="section kf-grid-carousel">

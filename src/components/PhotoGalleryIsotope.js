@@ -84,13 +84,13 @@ const PhotoGalleryIsotope = () => {
           >
             Add-Ons
           </a>
-          <a
+          {/* <a
             className="c-pointer"
             data-href="dinner-menu"
             onClick={handleFilterKeyChange("dinner-menu")}
           >
             Partnerships
-          </a>
+          </a> */}
           {/* <a
             className="c-pointer"
             data-href="special-pizza"
@@ -220,7 +220,7 @@ const PhotoGalleryIsotope = () => {
               </div>
             </div>
           </div>
-          <div className="kf-gallery-col col-xs-12 col-sm-12 col-md-6 col-lg-4 all hot-coffee">
+          {/* <div className="kf-gallery-col col-xs-12 col-sm-12 col-md-6 col-lg-4 all hot-coffee">
             <div
               className="kf-gallery-item element-anim-1 scroll-animate"
               data-animate="active"
@@ -232,14 +232,14 @@ const PhotoGalleryIsotope = () => {
               </div>
               <div className="desc">
                 <div className="name">
-                  {/* <div className="value">Jumbo Monitor & Projector</div> */}
+                
                 </div>
                 <div className="subname">
                   <div className="value">Jumbo Monitor & Projector</div>
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="kf-gallery-col col-xs-12 col-sm-12 col-md-6 col-lg-4 all hot-coffee">
             <div
               className="kf-gallery-item element-anim-1 scroll-animate"
@@ -266,8 +266,8 @@ const PhotoGalleryIsotope = () => {
               data-animate="active"
             >
               <div className="image kf-image-hover">
-                <a href="images/afgcharacter.png" className="has-popup-gallery">
-                  <img src="images/afgcharacter.png" alt="image" />
+                <a href="images/snakesGame.jpg" className="has-popup-gallery">
+                  <img src="images/snakesGame.jpg" alt="image" />
                 </a>
               </div>
               <div className="desc">
